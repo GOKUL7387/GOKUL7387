@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋 It's me Gokul
 
-<!--
-**GOKUL7387/GOKUL7387** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **Passionate software enthusiast with a strong foundation in programming and problem-solving.**
+- 🔭 Here's my [portfolio](https://gokulwebsiteresume.my.canva.site/)                                                 
+- 🌱 I’m currently learning DSA
+- 👯 I’m looking to collaborate on Data Science and Web Development.
+- 🤔 I’m looking for help with Placements in FAANG
+- 💬 Ask me about Tech
+- 📫 How to reach me :
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gokulkumar7387/)
+- 😄 Pronouns: Techie
+- ⚡ Fun fact: Code explorer.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I code in
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+### IDE and Tools I Use
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/> 
+### Platform where I practice
+<img width="48" height="48" src="https://img.icons8.com/color/48/GeeksforGeeks.png" alt="GeeksforGeeks"/><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>
+
+
+
+![GOKUL7387's Stats](https://github-readme-stats.vercel.app/api?username=GOKUL7387&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![GOKUL7387's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GOKUL7387&theme=vue-dark&hide_border=true)
+
+![LeetCode Stats](https://leetcode.panchajanya.dev/GOKUL_7387?theme=light&font=Kosugi)
