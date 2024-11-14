@@ -19,11 +19,3 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/> 
 ### Platform where I practice
 <img width="48" height="48" src="https://img.icons8.com/color/48/GeeksforGeeks.png" alt="GeeksforGeeks"/><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>
-
-
-
-![GOKUL7387's Stats](https://github-readme-stats.vercel.app/api?username=GOKUL7387&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-![GOKUL7387's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GOKUL7387&theme=vue-dark&hide_border=true)
-
-![LeetCode Stats](https://leetcode.panchajanya.dev/GOKUL_7387?theme=light&font=Kosugi)
