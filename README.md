@@ -1,4 +1,4 @@
-# Hi there 👋 It's me Gokul
+# Hi there 👋 It's me GOKUL
 
  **Passionate software enthusiast with a strong foundation in programming and problem-solving.**
 - 🔭 Here's my [portfolio](https://gokulwebsiteresume.my.canva.site/)                                                 
